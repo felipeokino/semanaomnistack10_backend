@@ -13,10 +13,10 @@ cd backend
 
 What things you need to install the software and how to install them
 
-```
-[NODE](https://nodejs.org/en/download/)
-[YARN](https://yarnpkg.com/en/docs/install)
-```
+
+1. Node js - [Download Node](https://nodejs.org/en/download/)
+2. Package manager - [Download Yarn](https://yarnpkg.com/en/docs/install)
+
 
 ### Starting project
 
